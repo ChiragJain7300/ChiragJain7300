@@ -1,7 +1,7 @@
 Hi 👋 My name is CHIRAG JAIN
 ============================
 
-SOFTWARE ENGINEER
+SOFTWARE ENGINEER/DEVELOPER
 -----------------
 
 Logical and organized individual with a strong foundation in software engineering. Proficient in Java, JavaScript, SQL, C, ReactJS. Seeking to raise coding KPIs by providing error-free codes. Excellent teamwork, interpersonal and communication skills.
