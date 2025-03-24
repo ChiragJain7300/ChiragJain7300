@@ -6,7 +6,7 @@ SOFTWARE ENGINEER/DEVELOPER
 
 Logical and organized individual with a strong foundation in software engineering. Proficient in Java, JavaScript, SQL, C, ReactJS. Seeking to raise coding KPIs by providing error-free codes. Excellent teamwork, interpersonal and communication skills.
 
-* 🖥️  See my portfolio at [ChiragJain](https://vercel.com/chiragjain7300s-projects/my-portfolio)
+* 🖥️  See my portfolio at [ChiragJain](https://my-portfolio-chiragjain7300s-projects.vercel.app/)
 * ✉️  You can contact me at [chiragjain7300@gmail.com](mailto:chiragjain7300@gmail.com)
 * 🧠  I'm learning Advanced Java and JavaScript
 * 🤝  I'm open to collaborating on React and Advanced Java
