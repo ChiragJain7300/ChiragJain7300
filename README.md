@@ -10,7 +10,7 @@ Logical and organized individual with a strong foundation in software engineerin
 * ✉️  You can contact me at [chiragjain7300@gmail.com](mailto:chiragjain7300@gmail.com)
 * 🧠  I'm learning Advanced Java and JavaScript
 * 🤝  I'm open to collaborating on React and Advanced Java
-* 🇨🇻   [Resume Link](https://drive.google.com/file/d/1Kw_Rfbf_4mGtyYb8NOcnP24sjWSpBQM3/view?usp=sharing)
+* 🇨🇻  [Resume Link](https://drive.google.com/file/d/1mh8yufhA7TyOKhKnF_2rBDcOrDsmMkE8/view)
 * 🖥️  See my LinkedIn Profile at [Chirag-Jain](https://www.linkedin.com/in/chirag-jain-7300)
 
 
